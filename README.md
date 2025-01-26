@@ -14,7 +14,8 @@
   - Total time taken.
   - Final video size.
 - Currently supported `regex` patterns in the `url`:
-  - `seg-\d+`
+  - `seg-\\d+`
+  - `frag\\(\\d+\\)`
 
 
 ## Requirements
