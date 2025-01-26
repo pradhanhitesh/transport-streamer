@@ -1,0 +1,12 @@
+URL: "SOME URL"
+Start Time: 2025-01-24 00:00:02
+End Time: 2025-01-24 00:00:03
+Time Taken: 0.96 seconds
+Final Video Size: 0.00 MB
+==================================================
+URL: https://kv-h.phncdn.com/hls/videos/202310/31/442148781/720P_4000K_442148781.mp4/seg-{}-v1-a1.ts?hdnea=st=1737906613~exp=1737910213~hdl=-1~hmac=9099d359787cb4583350d3b0686bb7ab90dcc03e
+Start Time: 2025-01-26 21:23:01
+End Time: 2025-01-26 21:34:33
+Time Taken: 692.66 seconds
+Final Video Size: 306.83 MB
+==================================================
